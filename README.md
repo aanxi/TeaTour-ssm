@@ -1,6 +1,7 @@
 # TeaTour-ssm
 使用Spring+SpringMVC+MyBatis+Java+JSP+Tomcat+MySQL完成的商城网站，具有茶类商品购买、评价和茶园体验预约等功能<br>
 功能基本完成，还有一些小bug以及设计不合理的地方需要修改，之后有时间会继续完善<br>
+（很多图片没显示是因为我没放对应的图片资源，找不到那么多商品图片，就没放hh大家根据需要修改）<br>
 1.配置须知：<br>
 数据库：MySQL5.1.38<br>
 服务器：Tomcat9.0<br>
